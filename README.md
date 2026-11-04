@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=Software+engineer+from+Chi%C8%99in%C4%83u;I+build+Python+APIs+and+ML+platforms;I+write+tests+before+they+get+angry;Currently+finishing+a+Master%27s+in+Data+Science" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=I+build+Python+APIs+and+ML+platforms;Simplyfy -_-" alt="Typing animation" />
   </a>
 </p>
 
@@ -32,7 +32,6 @@ I'm in the final year of a Master's in Data Science at the Technical University 
 | [**IAD**](https://github.com/Imustyk/IAD) | Upload a dataset, train a model, get predictions through an API. Runs are tracked, data drift is checked, metrics go to Grafana. | Python, FastAPI, Streamlit, PostgreSQL, SQLAlchemy, Alembic, MLflow, Prometheus, Grafana, Docker, pytest, GitHub Actions |
 | [**MRPRI**](https://github.com/Imustyk/MRPRI) | Loads Moldovan procurement data, scores anomalies, and gives analysts a workspace to rank risks and keep notes. Legal documents are searchable, and every answer quotes its source. | Python, FastAPI, MongoDB, SQLite, scikit-learn, pandas, React, pytest |
 | [**Reader Activity Analytics**](https://github.com/Imustyk/TBD) | Collects reading data, models a warehouse, and forecasts book popularity. | Python, SQL, SQLite, MongoDB, PySpark, XGBoost, LightGBM, Streamlit |
-| [**Aggregator Home Finder**](https://github.com/Imustyk/aggregator-home-finder) | A web app for browsing property listings from several sources. | TypeScript, React, Vite, Supabase |
 
 ## Where to look in the code
 
