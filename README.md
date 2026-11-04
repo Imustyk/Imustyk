@@ -2,7 +2,10 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=I+build+Python+APIs+and+ML+platforms;Simplyfy -_-" alt="Typing animation" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=I+build+Python+APIs+and+ML+platforms;Simplify+the+complex."
+      alt="Typing animation"
+    />
   </a>
 </p>
 
