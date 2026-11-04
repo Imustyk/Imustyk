@@ -1,106 +1,115 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Imustyk;Full%20Stack%20Software%20Engineer;Open+Source+Developer;Crafting%20modern%20web%20apps%20%26%20clean%20architectures" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Imustyk">
-    <img src="https://komarev.com/ghpvc/?username=Imustyk&label=PROFILE+VIEWS&style=flat-square&color=0284c7" alt="Profile Views" />
-  </a>
-  <a href="mailto:imustyk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-imustyk%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Ready%20to%20collaborate-22c55e?style=flat-square" alt="Status" />
-</p>
+# Igor Musteata
 
----
+**Software Engineer · Python & AI/ML Platforms · Full-Stack Development**
 
-### 💫 About Me
+Building dependable APIs, data pipelines, machine-learning tooling, and practical web applications.
 
-```yaml
-name: Imustyk
-role: Software engineer, Python and machine learning platforms
-status: Exploring new frontiers & building clean software
-learning: Advanced cloud architecture, real-time distributed systems
-quote: "Simplicity is prerequisite for reliability."
-```
+Chișinău, Moldova · Master's student in Data Science, Technical University of Moldova
 
-- 🔭 **Current Focus:** Building production-ready applications with modern web technologies
-- 🌱 **Deepening Knowledge:** System architecture, performance optimization & developer tooling
-- 💬 **Ask Me About:** JavaScript, TypeScript, React, Node.js, RESTful & GraphQL APIs
-- 📫 **Contact:** Drop a line at [imustyk@gmail.com](mailto:imustyk@gmail.com)
-- ⚡ **Fun Fact:** The fastest code is the code that never had to execute.
+[LinkedIn](https://www.linkedin.com/in/imustyk/) · [GitHub](https://github.com/Imustyk) · [Email](mailto:imustyk@gmail.com)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+## About
 
-#### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
+I'm a software engineer with commercial front-end development experience and a growing focus on **Python backend engineering, data science, and ML platforms**.
 
-#### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind_CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-</p>
+My work spans API-backed applications, relational and document databases, model training and evaluation, ETL workflows, automated tests, and observability. I enjoy connecting research and machine learning to software that people can actually use.
 
-#### Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+Currently, I'm completing a **Master's in Data Science** at the Technical University of Moldova, with research into anomaly detection and corruption-risk indicators in public procurement data.
 
-#### DevOps & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+## Selected projects
 
-#### Tools & Utilities
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS_Code" />
-</p>
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">What I built</th>
+    <th align="left">Key technologies</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Imustyk/IAD"><strong>IAD — Intelligent Analytics & Data Science</strong></a></td>
+    <td>Python ML platform with training and prediction APIs, experiment tracking, PostgreSQL persistence, data-drift detection, metrics, and automated quality checks.</td>
+    <td>Python, FastAPI, Streamlit, PostgreSQL, SQLAlchemy, Alembic, MLflow, Prometheus, Grafana, Docker, pytest, GitHub Actions</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Imustyk/MRPRI"><strong>MRPRI — Public Procurement Risk Intelligence</strong></a></td>
+    <td>End-to-end ingestion and anomaly-analysis system built on real Moldovan procurement data, with explainable risk indicators, external-label evaluation, document retrieval, and an analyst dashboard.</td>
+    <td>Python, FastAPI, MongoDB, SQLite, scikit-learn, pandas, React, pytest</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Imustyk/TBD"><strong>Reader Activity Analytics</strong></a></td>
+    <td>Data ingestion, warehouse modeling, Spark analytics, and prediction workflows for reader activity and book popularity.</td>
+    <td>Python, SQL, SQLite, MongoDB, PySpark, XGBoost, LightGBM, Streamlit</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Imustyk/aggregator-home-finder"><strong>Aggregator Home Finder</strong></a></td>
+    <td>TypeScript web application for browsing and aggregating property listings with a Supabase-backed data layer.</td>
+    <td>TypeScript, React, Vite, Supabase</td>
+  </tr>
+</table>
+
+## Engineering highlights
+
+A few places to start if you want to see the implementation rather than a list of technologies:
+
+- **API design and async basics:** [IAD training/prediction routes](https://github.com/Imustyk/IAD/blob/main/iad/backend/api/routes/ml.py) use FastAPI and offload blocking ML work with `asyncio.to_thread`.
+- **ML lifecycle:** [MLflow integration](https://github.com/Imustyk/IAD/blob/main/iad/ml/tracking/mlflow_tracker.py) tracks experiments, parameters, metrics, and model artifacts, with graceful handling when MLflow is unavailable.
+- **Monitoring:** [Drift detection](https://github.com/Imustyk/IAD/blob/main/iad/ml/preprocessing/drift/detector.py) compares reference and current data using PSI, KS tests, and Jensen–Shannon divergence; [Prometheus instrumentation](https://github.com/Imustyk/IAD/blob/main/iad/core/observability/prometheus.py) tracks API and ML operations.
+- **Software quality:** [CI pipeline](https://github.com/Imustyk/IAD/blob/main/.github/workflows/ci.yml) runs linting, type checking, tests, and Docker build checks.
+- **Evidence-aware retrieval:** [MRPRI's document retrieval layer](https://github.com/Imustyk/MRPRI/blob/main/src/mtender/rag.py) uses source-aware, extractive retrieval and verifies quotations rather than generating unsupported legal claims.
+- **Application data:** [MRPRI analyst workspace](https://github.com/Imustyk/MRPRI/blob/main/src/mtender/workspace.py) implements transactional SQLite storage for investigations, notes, and audit history.
+
+## Professional experience
+
+**Salesforce Front-end Developer (Freelance) · D2Force**  
+*March 2025 – February 2026*
+
+- Developed reusable Lightning Web Components for Salesforce applications and B2B workflows.
+- Integrated application interfaces and improved performance, responsiveness, and maintainability.
+
+**Front-end Developer · Law Trust Impex**  
+*April 2024 – March 2025*
+
+- Built web interfaces for real-estate and automotive applications using React/Next.js and backend APIs.
+- Worked with REST integrations and data-backed features, including an AI-chatbot integration in collaboration with a data science engineer.
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, TypeScript, JavaScript, SQL |
+| **Backend & APIs** | FastAPI, Node.js, Express, REST APIs, Pydantic |
+| **Machine learning** | scikit-learn, pandas, NumPy, XGBoost, LightGBM, MLflow, model evaluation, anomaly detection |
+| **Databases & data** | PostgreSQL, SQLite, MongoDB, SQLAlchemy, Alembic, ETL, PySpark |
+| **Infrastructure & quality** | Docker, GitHub Actions, pytest, Ruff, mypy, Prometheus, Grafana, Git, Linux |
+| **Frontend** | React, Next.js, TypeScript, Streamlit, Tailwind CSS |
+
+## Education
+
+**MSc in Data Science** — Technical University of Moldova · *2025–present*  
+**BSc in Information Management** — Technical University of Moldova · *2022–2025*
+
+## GitHub activity
+
+For the most accurate and up-to-date contribution history, visit my [GitHub profile and contribution graph](https://github.com/Imustyk).
+
+<details>
+  <summary>View contribution streak (external visualization)</summary>
+  <br />
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=Imustyk&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  </p>
+</details>
 
 ---
 
-### 📊 GitHub Activity & Metrics
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Imustyk">
-    <img src="https://github-readme-stats.vercel.app/api?username=Imustyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Imustyk's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Imustyk">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imustyk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+**Interested in ML platforms, data engineering, or software collaboration?**  
+[Let's connect on LinkedIn](https://www.linkedin.com/in/imustyk/) · [Email me](mailto:imustyk@gmail.com)
 
-<p align="center">
-  <a href="https://github.com/Imustyk">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imustyk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/Imustyk">
-    <img src="https://github-profile-trophy.vercel.app/?username=Imustyk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Imustyk Trophies" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%" alt="Footer waves" />
-</p>
-
+</div>
