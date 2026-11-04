@@ -72,11 +72,6 @@ Web interfaces for real-estate and automotive apps in React and Next.js, with RE
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imustyk&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imustyk&layout=compact&hide_border=true" height="160" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Imustyk&hide_border=true" alt="GitHub streak" />
 </p>
 
